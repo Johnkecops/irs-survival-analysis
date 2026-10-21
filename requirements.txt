@@ -1,0 +1,7 @@
+streamlit>=1.57
+lifelines==0.30.3
+pandas>=2.2,<3
+numpy
+matplotlib>=3.8
+scipy
+seaborn
